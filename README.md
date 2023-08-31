@@ -9,3 +9,4 @@
     <p>This is a paragraph.</p>
 </body>
 </html>
+<img src="image.jpg" alt="A beautiful image">

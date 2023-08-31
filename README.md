@@ -9,4 +9,4 @@
     <p>This is a paragraph.</p>
 </body>
 </html>
-<img src="https://www.usnews.com/cmsmedia/94/43312647f96d895292321e35f4f5ad/fau_37368267.jpg" alt="A beautiful image">
+<img src="https://www.usnews.com/cmsmedia/94/43312647f96d895292321e35f4f5ad/fau_37368267.jpg">
